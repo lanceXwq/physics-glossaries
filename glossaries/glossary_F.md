@@ -16,16 +16,12 @@ Fluorescence Lifetime IMaging
 
 Förster Resonance Energy Transfer
 
-## [PALM](#palm)
+[1]: #glossary
 
-Photo-Activated Localization Microscopy
+[2]: #fccs
 
-## [PSF](#psf)
+[3]: #fcs
 
-Point Spread Function
+[4]: #flim
 
-## [STORM](#storm)
-
-<!--{ "aliases": "PALM" }-->
-
-STochastic Optical Reconstruction Microscopy
+[5]: #fret
