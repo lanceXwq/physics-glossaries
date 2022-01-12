@@ -1,4 +1,4 @@
-# [Book Index](#book-index)
+# [Index](#index)
 
 ## [FRET](#fret)
 

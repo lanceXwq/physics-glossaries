@@ -26,6 +26,6 @@ Point Spread Function
 
 ## [STORM](#storm)
 
-<!--{ "aliases": "PALM, Wildcat, House Cat" }-->
+<!--{ "aliases": "PALM" }-->
 
 STochastic Optical Reconstruction Microscopy

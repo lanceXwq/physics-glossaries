@@ -4,7 +4,7 @@
 Förster Resonance Energy Transfer
 
 ## STORM
-<!--{ "aliases": "PALM, Wildcat, House Cat" }-->
+<!--{ "aliases": "PALM" }-->
 STochastic Optical Reconstruction Microscopy
 
 ## FCCS 
