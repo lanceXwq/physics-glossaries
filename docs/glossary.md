@@ -1,9 +1,8 @@
 # Glossary
 
-## Term
+## FRET
+Förster Resonance Energy Transfer
 
-A glossary term has a short description. The full description contains both sentences.
-
-## Cat
-<!--{ "aliases": "Cats, Wildcat, House Cat" }-->
-Cats are cute, ...dogs are loyal.
+## STORM
+<!--{ "aliases": "PALM, Wildcat, House Cat" }-->
+STochastic Optical Reconstruction Microscopy

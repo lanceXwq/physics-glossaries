@@ -1,6 +1,6 @@
-# Demo
+# Papers
 
-This is a text which uses a glossary Term to describe something.
+Here we may offer a list of papers/awards/labs related to FRET.
 
 
-This is a text which uses a glossary Cat to describe something.
+Here we may offer a list of papers/awards/labs related to STORM.

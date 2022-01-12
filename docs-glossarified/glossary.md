@@ -1,13 +1,11 @@
 # [Glossary](#glossary)
 
-## [Cat](#cat)
+## [FRET](#fret)
 
-<!--{ "aliases": "Cats, Wildcat, House Cat" }-->
+Förster Resonance Energy Transfer
 
-[Cats][1] are cute, ...dogs are loyal.
+## [STORM](#storm)
 
-## [Term](#term)
+<!--{ "aliases": "PALM, Wildcat, House Cat" }-->
 
-A glossary term has a short description. The full description contains both sentences.
-
-[1]: #cat "Cats are cute,...dogs are loyal."
+STochastic Optical Reconstruction Microscopy

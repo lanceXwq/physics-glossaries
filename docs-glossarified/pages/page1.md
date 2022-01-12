@@ -1,9 +1,9 @@
-# [Demo](#demo)
+# [Papers](#papers)
 
-This is a text which uses a glossary [Term][1] to describe something.
+Here we may offer a list of papers/awards/labs related to [FRET][1].
 
-This is a text which uses a glossary [Cat][2] to describe something.
+Here we may offer a list of papers/awards/labs related to [STORM][2].
 
-[1]: ../glossary.md#term "A glossary term has a short description."
+[1]: ../glossary.md#fret "Förster Resonance Energy Transfer"
 
-[2]: ../glossary.md#cat "Cats are cute,...dogs are loyal."
+[2]: ../glossary.md#storm "STochastic Optical Reconstruction Microscopy"
