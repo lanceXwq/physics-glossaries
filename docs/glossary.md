@@ -18,3 +18,6 @@ Fluorescence Lifetime IMaging
 
 ## PSF
 Point Spread Function
+
+## PALM
+Photo-Activated Localization Microscopy
