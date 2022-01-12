@@ -4,6 +4,10 @@
 
 [Glossary][1] ○ [Papers][2]
 
+## [PALM](#palm)
+
+[Glossary][3] ○ [Papers][2]
+
 ## [STORM](#storm)
 
 [Glossary][3] ○ [Papers][2]
