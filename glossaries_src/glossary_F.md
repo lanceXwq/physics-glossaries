@@ -1,17 +1,17 @@
-# [Glossary](#glossary)
+# Glossary
 
-## [FCCS](#fccs)
+## FCCS
 
 Fluorescence Cross-Correlation Spectroscopy
 
-## [FCS](#fcs)
+## FCS
 
 Fluorescence Correlation Spectroscopy
 
-## [FLIM](#flim)
+## FLIM
 
 Fluorescence Lifetime IMaging
 
-## [FRET](#fret)
+## FRET
 
 Förster Resonance Energy Transfer
