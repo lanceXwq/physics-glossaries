@@ -1,10 +1,10 @@
 ## [Papers](#papers)
 
 [STORM][1]
-[https://doi.org/10.1038/nmeth929][2]
+[Rust *Nat. Methods* 2006][2]
 
 [FCS][3]
-[https://link.aps.org/doi/10.1103/PhysRevLett.29.705][4]
+[Magde *Phys. Rev. Lett.* 1972][4]
 
 [1]: ../glossary_S.md#storm "STochastic Optical Reconstruction Microscopy"
 
